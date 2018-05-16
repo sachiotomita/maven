@@ -3,10 +3,11 @@
   <groupId>com.cm55</groupId>
   <artifactId>kanhira</artifactId>
   <versioning>
-    <release>0.6.0</release>
+    <release>0.6.1</release>
     <versions>
       <version>0.6.0</version>
+      <version>0.6.1</version>
     </versions>
-    <lastUpdated>20180426003650</lastUpdated>
+    <lastUpdated>20180516082438</lastUpdated>
   </versioning>
 </metadata>
